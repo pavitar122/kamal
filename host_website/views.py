@@ -1,5 +1,4 @@
 from django.shortcuts import render
-import requests
 from data import data
 
 # Create your views here.
